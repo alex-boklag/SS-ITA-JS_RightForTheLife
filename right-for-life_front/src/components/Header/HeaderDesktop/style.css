@@ -1,0 +1,4 @@
+.header-element {
+  transition: color .2s, background-color .2s;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}

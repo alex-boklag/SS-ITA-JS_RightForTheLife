@@ -1,0 +1,1 @@
+export const SET_URL_FOR_BACK_BTN = 'SET_URL_FOR_BACK_BTN';

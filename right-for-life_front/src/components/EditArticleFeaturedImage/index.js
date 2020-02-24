@@ -1,0 +1,1 @@
+export { EditArticleFeaturedImage } from './EditArticleFeaturedImage';

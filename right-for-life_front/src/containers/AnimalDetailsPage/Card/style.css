@@ -1,0 +1,12 @@
+.animal-details-card__pet-img {
+  max-height: 1000px;
+}
+
+.animal-details-card__pet-img-container .react-images__track {
+  align-items: start!important;
+}
+
+.react-images__container button {
+  outline: none;
+}
+

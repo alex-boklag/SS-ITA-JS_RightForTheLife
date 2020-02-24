@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_PASS": "root",
+    "APP_PORT": 4000,
+    "DB_NAME": "right-for-life"
+  }
+}

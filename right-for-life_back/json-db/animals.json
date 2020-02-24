@@ -1,0 +1,276 @@
+[
+    {
+        "name": "Бусинка",
+        "type": "кот",
+        "gender": "Ж",
+        "age": 1564661532000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/1.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/1.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/1.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/1.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/1.5.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/1.6.jpg"
+        ],
+        "description": "Котёнок Бусинка смешная и очень симпатичная толстушка. Трёхцветными бывают только девочки, и они обязательно приносят в семью любовь, уют и благополучие. Бусинка не только красавица, она и умница. Очень ласковая, чистоплотная и игривая девочка. Всегда рада вниманию и играм, от ласки и нежности не отказывается, с удовольствием включает мурчатель! Шерстка коротенькая шёлковая на ощупь, а глазки желто зелёные оливковой формы. Бусинка вырастет прекрасной кошечкой, которая будет любить Вас и вашу семью. Кушает сухой корм для чувствительного пищеварения. Привита , от паразитов обработана. К лотку приучена, не промахивается. Стерилизуем за свой счёт в 6-8 месяцев."
+    },
+    {
+        "name": "Барни ",
+        "type": "пес",
+        "gender": "М",
+        "age": 1564661532000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/2.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/2.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/2.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/2.4.jpg"
+        ],
+        "description": "Малыш Барни очень милый и ласковый щеночек. Барни активный и игривый, вырастет прекрасным и умным другом ( рост примерно по колено). Звонко лает, играет игрушками, любит обниматься. Барни парень способный к обучению, командам. Но Вам нужно будет немного настойчивости и терпения, что бы из этого алмаза огранить настоящий бриллиант! Привит. От паразитов обработан двукратно. Кушает сухой корм для щенков."
+    },
+    {
+        "name": "Моцарт",
+        "type": "кот",
+        "gender": "М",
+        "age": 1533125532000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/3.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/3.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/3.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/3.4.jpg"
+        ],
+        "description": "Неописуемо красивый крупный кот Моцарт остался сиротой. Его котёнком привезли из Израиля, а сейчас, когда умер хозяин - кот остался на улице. Скорее всего Моцарт метис ангоры и перса. Очень красивый профиль мордочки, густая белоснежная шубка и аметистового цвета глаза (зрачок рубин). Моцарт очень умный и ласковый кот. Он сразу находит со всеми общий язык, хотя на адаптацию в новом месте понадобится некоторое время. Котик глухой. Но это совершенно не помешает ему дарить Вам море любви и делиться кошачьей лаской, теплом. Других котов и собак не видел, с детьми терпим. Привит. Кастрирован. Очень чистоплотен, к лотку приучен. От паразитов обработан. Кушает мягкий корм."
+    },
+    {
+        "name": "Соня",
+        "type": "кот",
+        "gender": "Ж",
+        "age": 1567339932000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/4.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/4.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/4.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/4.4.jpg"
+        ],
+        "description": "Малюсенькая котёночек Сонечка ждёт повод познакомиться с Вами! Котёночек Соня нежная и хрупкая. Она очень нуждается в ЛЮБВИ и в ЗАБОТЕ, в тепле домашнего очага! Сонечку выкормили из бутылочки, потому что плохие люди в возрасте 2 недель выкинули ее в дождь под магазин. Сейчас малышка привита, очень ласковая и игривая. Вырастет умной и красивой кошкой. Очень чистоплотна, к лотку приучена В возрасте 6-8 месяцев стерилизуем за свой счёт от паразитов обработана"
+    },
+    {
+        "name": "Фаня",
+        "type": "пес",
+        "gender": "Ж",
+        "age": 1559391132000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/5.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/5.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/5.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/5.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/5.5.jpg"
+        ],
+        "description": "Щеночек Фаня, метис овчарки, очень милая, симпатичная девочка. Очень общительная, игривая, сплошной позитивчик! Вырастет умной послушной собачкой среднего размера (по колено). Уже сейчас с удовольствием лает. Кушает сухой корм, кашу с мясом. Приучена к выгулу на поводке, Фаня умница! Можно и в квартиру взять и в частный сектор (Вольер утеплённая будка). От паразитов обработана, привита, есть вет паспорт. Стерилизована. Познакомиться можно в центре."
+    },
+    {
+        "name": "Гоша",
+        "type": "кот",
+        "gender": "М",
+        "age": 1527855132000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/6.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/6.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/6.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/6.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/6.5.jpg"
+        ],
+        "description": "Шикарный огромный кот Гоша остался сиротой и очень нуждается в заботливой семье! Временно приютили соседи, но через неделю они уезжают и Гоша отправится на улицу! Домашний кот в первые же дни ПОГИБНЕТ от ГОЛОДА и ХОЛОДА !!! Гоша очень разговорчивый, общительный толстячок. Это кот для людей ценящих общение с общительным животным. Гоша постоянно , что то рассказывает, чем то делится на своем языке кошачьем. Он кот доминант и несмотря на всю свою ласковость и няшность, не потерпит плохого и грубого обращения. Только ласка, уважение и понимание растопят сердце этого красавца. На агрессию реагирует моментально ( по кошачьи. Должен жить ОДНИМ котом, иначе будет делать дела мимо лотка. Уже кастрирован и очень чистоплотен. Привит, от паразитов обработан Кушает сухой корм, мягкий корм"
+    },
+    {
+        "name": "Рыся",
+        "type": "кот",
+        "gender": "Ж",
+        "age": 1514808732000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/7.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/7.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/7.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/7.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/7.5.jpg"
+        ],
+        "description": "Кошечка Рыся очень нежная и общительная тигристая красавица, которой грустно без тепла и заботы, без семьи. Рыся не только красавица, но и умница. Она очень добрая и умная. Что бы привлечь Ваше внимание, применяет кошачьи хитрости. Начинает кувыкаться, ластиться и показывать горошки на пузике. Шубка аборигенного окраса, мех короткий. Глазки насыщено зелёные, очень красивые. Рыся уже привита, стерильна и от паразитов обработана. Кушает сухой корм. Приучена к лотку с наполнителем."
+    },
+    {
+        "name": "Чак",
+        "type": "пес",
+        "gender": "М",
+        "age": 1530447132000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/8.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/8.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/8.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/8.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/8.5.jpg"
+        ],
+        "description": "Маленький щенок Чак очень ласковый и милый . Целовака, игривый, весёлый, обнимака малыш. Вырастет среднего размера, ниже колена, до 10 кг Очень красивый и необычный окрас шубки, глазки пуговки. Умненький, маленький мальчик. Прекрасный звоночек. От паразитов обработан"
+    },
+    {
+        "name": "Бакс",
+        "type": "пес",
+        "gender": "М",
+        "age": 1420114332000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/9.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/9.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/9.3.jpg"
+        ],
+        "description": "Умный метис алабая пёс Бакс стал бездомным! Хозяева уехали, кормить Бакса некому! Мама Бакса алабай, папа неизвестен. Очень хороший охранник, чужих не подпускает, к споим-добрый. Бакс, возраст 5 лет, характер добрый ластится любит чтобы гладили живот, отношение к другим собакам нормальное, к кошкам не агрессивен. Сидит возле будки на цепи. С ним не гуляли. Собака не агрессивная, адекватная, охраняет дом."
+    },
+    {
+        "name": "Блейк",
+        "type": "кот",
+        "gender": "М",
+        "age": 1438431132000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/10.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/10.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/10.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/10.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/10.5.jpg"
+        ],
+        "description": "Крошка котёнок Блейк обалденный красавчик! Фото не передаёт красоту его окраса и искорки в зелёных глазках! Глазёнки просто загораются при виде игрушек! Шубка со скрытыми полосочками и пятнышками, которые заметно при ярком освещении, как пятна на шкуре пантеры( черного ягуара). Блейк ооооочень ласковый! При почесании пузика он мурчит как огромный трактор! Очень активный, игривый, подвижный, любопытный и умненький малыш. От всех паразитов обработан. Привит. Кушает сухой корм для котят. В 8-12 месяцев кастрируем за свой счёт."
+    },
+    {
+        "name": "Луна",
+        "type": "кот",
+        "gender": "Ж",
+        "age": 1441109532000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/11.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/11.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/11.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/11.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/11.5.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/11.6.jpg"
+        ],
+        "description": "Котёнок Луна шоколадное счастье в солнечных зайчиках, которое без усталости носится и играет игрушками, прыгает на ручки и пристально смотрит в глаза, что бы ее погладили и поцеловали. Мурчунья и маленькая проказница Луна вырастет очень и умной красивой кошкой! Взяв трёхцветного котёнка, Вы впускаете в свою жизнь счастье и достаток, любовь и взаимопонимание! По возрасту 6-8 месяцев сетерилизуем за свой счёт. От паразитов обработана. Кушает корм для котят."
+    },
+    {
+        "name": "Скиф",
+        "type": "пес",
+        "gender": "М",
+        "age": 1388578332000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/12.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/12.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/12.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/12.4.jpg"
+        ],
+        "description": "Скиф может в морозы оказаться снова на улице! Неужели никому не нужен друг и замечательный охранник?!!! Овчарка Скиф очень умный пёс, всё понимает с полуслова, станет вам надежным другом. Уравновешенный, спокойный, общительный товарищ. Очень хороший ОХРАННИК! Настоящий ДРУГ! С собаками ведёт себя спокойно. Но с кошками,не очень сложились отношения. Он прожил только полжизни и почему-то оказался на улице. Его здоровьем видимо не занимались. Лапы - проблемное место у овчарок. Артроз возрастной. На сегодня Скиф прошёл курс таблеток (лечение) и чувствует себя прекрасно, бегает резво. Маленькая проблема со здоровьем (поправимая мелочь) совершенно не помешает ему любить и охранять вас. Требуется поддерживающего лечения и наблюдения у врача, курс таблеток (обычно) весной и осенью. Мы поможем со скидками на вет обслуживание и лекарства. Кушает кашу с мясным, сухой корм не оч любит. От паразитов обработан."
+    },
+    {
+        "name": "Ляля",
+        "type": "кот",
+        "gender": "Ж",
+        "age": 1577880732000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/13.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/13.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/13.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/13.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/13.5.jpg"
+        ],
+        "description": "Кошечка Ляля очень ласковая и компанейская. Она уже стерилизована и с нетерпением ждёт, когда же ее заметят хорошие ЛЮДИ! Игривая и активная, лентяйка и мурчунья-настоящая домашняя кошечка. Ляля смотрит в окошко и в каждом проходящем человеке мечтает увидеть своего хозяина/хозяйку. Неужели она Вам не нравится?! Только посмотрите в ее зелёные глазки! А какие шикарные усы и реснички. Это же просто загляденье! И манишка белоснежная и носочки, Лялечка нарядная девочка. Стерилизована. От паразитов обработана. Очень чистоплотна, к лотку приучена."
+    },
+    {
+        "name": "Парамон",
+        "type": "кот",
+        "gender": "М",
+        "age": 1567339932000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/14.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/14.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/14.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/14.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/14.5.jpg"
+        ],
+        "description": "Чудесный котёнок Парамон сделает вашу жизнь веселее и душевнее! Парамоша очень общительный малыш, он умеет разговаривать. Издаёт очень смешные мурчательно мяукательные звуки в надежде, что вы ему ответите на том же языке. Очень ласковый Мур мурчун. Котёнок маленький, активный, очень игривый и весёлый! Конечно он вырастет умным красивым котом, но сейчас он любопытный и очень милый котёночек. Шубка в весёлых полосочках, пузик в горошках, на лапке носочек, а на грудке светлая манишка. Парамон нарядный кото красавчик! От паразитов обработан, кушает сухой корм для котят. Кастрация в 8-12 месяцев за наш счёт."
+    },
+    {
+        "name": "Нюша",
+        "type": "пес",
+        "gender": "Ж",
+        "age": 1567339932000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/15.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/15.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/15.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/15.4.jpg"
+        ],
+        "description": "Щеночек Нюша очень ласковая и игривая. Но при этом прекрасная охранница. На посторонних людей и шумы реагирует злюююющим лаем. Конечно это смотрится сейчас мило, потому что такая милашка с глазками-бусинками не может быть злюкой! Но когда Нюша вырастет, то роль охранницы ей будет по плечу. Вырастет она не крупной, ниже колена Нюша ждет вас для знакомства! От паразитов обработана, привита, есть вет паспорт. Кушает сухой корм для щенков. По возрасту 6-8 месяцев стерилизация за наш счёт."
+    },
+    {
+        "name": "Лучик",
+        "type": "кот",
+        "gender": "М",
+        "age": 1554120732000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/16.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/16.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/16.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/16.4.jpg"
+        ],
+        "description": "Лучик безмерно ласковый малыш. Он маленький по возрасту, но крупненький по размеру. Вырастет очень красивым котиком толстячком. Котёнок был травмирован, пережил операцию, сейчас немного хромает, но это пройдет со временем. Лучик очень спокойный. Любит сидеть на ручках, что бы его гладили. Застенчив, немного трусишка. Других котиков боится, в игры не лезет. Малыш очень нуждается в тепле семейного очага! А Вы нуждаетесь в таком милом и нежном котёнке! Очень чистоплотен, в туалет только на лоток. Кушает сухой корм для котят. Привит от паразитов, обработан, кастрирован."
+    },
+    {
+        "name": "Фея",
+        "type": "кот",
+        "gender": "Ж",
+        "age": 1514808732000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/17.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/17.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/17.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/17.4.jpg"
+        ],
+        "description": "Кошечка Фея просто восхитительна! Она ждёт заботливых хозяев Котечка добрая, ласковая, ОЧЕНЬ активная и игрива, очень общительна. Она нежная и трепетная, очень ориентирована на человека, на его любовь и заботу, которую вернет многократно увеличив ! Быстро осваивается, тянется общаться и играть с человеком, мурчит и трется о руки! Обнимается и целуется. Желательно проживание в семье, где детки старше 10 лет. Фея уже стерилизована, привита, есть вет паспорт. От паразитов обработана. К лотку приучена, проколы бывают редко. Кушает мягкие корма."
+    },
+    {
+        "name": "Кефир",
+        "type": "кот",
+        "gender": "М",
+        "age": 1517487132000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/18.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/18.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/18.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/18.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/18.5.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/18.6.jpg"
+        ],
+        "description": "Очень красивый котёнок Кефир очень ждёт встречи с Вами! Европейский короткошерстный мальчик Кефир добряк, весельчак, заводила во всех играх! Он ласковый мальчик, очень активный и разговорчивый. Шикарный короткошерстный белоснежный толстячок. На голове единственная тонкая полосочка, как мазок кисти. Вырастет крупным красавцем котом! Привит. От паразитов обработан. Кастрирован. Очень чистоплотен, к лотку приучен. Кушает сухой корм для котят."
+    },
+    {
+        "name": "Кузя",
+        "type": "кот",
+        "gender": "М",
+        "age": 1546344732000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/19.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/19.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/19.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/19.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/19.5.jpg"
+        ],
+        "description": "Кузя очень активный и весёлые молоденький котик! Из-за перенесённой в детстве болезни Кузенька лишился глазика. Это совершенно не мешает ему любить весь мир и наслаждаться каждым днём жизни. Кузенька одновременно успевает и на ручках посидеть и поиграть, обнять вас, лизнуть в щёчку и тут же вспомнить что пора проверить мисочку, вдруг время обеда, а он заигрался. С таким котиком скука Вам не грозит! Вырастет крупненьким котом! Очень ласковый мальчик и нежный. Кушает корм для котят, привит, обработан от паразитов, кастрирован."
+    },
+    {
+        "name": "Гоша",
+        "type": "кот",
+        "gender": "М",
+        "age": 1514808732000,
+        "photos": [
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/20.1.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/20.2.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/20.3.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/20.4.jpg",
+            "https://alex-boklag.github.io/SSA-Demo-AnimalShelter/photos/20.5.jpg"
+        ],
+        "description": "Прекрасный сфинкс Гоша. Он тепленький резиновый котик, на голове есть шёрстка рыжего оттенка. Глазки зелёные, как изумруд. Гоше не везло в жизни. То, что он породистый кот, не уберегло его от предательства, от улицы... Гоша кот очень добрый и ласковый, но с своеобразным характером. Он личность, у него есть свои представления о многом в этой жизни и желательно с эти мириться. Разговорчив, очень любит внимание и ласку. Любопытен и очень умён. Ласковый, но не навязчив. Гоша не любит других кошек. Может их бить, или по другому выражать своё недовольство. Есть небольшие проблемы со здоровьем. Поэтому Гоша питается только лечебным кормом. Это не дёшево, но результат - хорошее самочувствие кота, важнее. Отдаётся в семью без маленьких деток, желательно имеющих опыт содержания сфинксов. Привит. КАСТРИРОВАН. От паразитов обработан. Кушает сухой корм Роял канин Гастро."
+    }
+]

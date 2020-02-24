@@ -1,0 +1,35 @@
+.aboutSlider {
+  height: 70vh;
+}
+
+.previousButton,
+.nextButton {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  background: #ffffff;
+}
+
+.previousButton svg,
+.nextButton svg {
+  width: 35px !important;
+  height: 21px !important;
+}
+
+.previousButton svg polygon,
+.nextButton svg polygon {
+  fill: #616161;
+}
+
+@media (max-width: 768px ) {
+  .previousButton,
+  .nextButton {
+    width: 35px;
+    height: 35px;
+    background-color: rgba(255, 255, 255, .5);
+  }
+}

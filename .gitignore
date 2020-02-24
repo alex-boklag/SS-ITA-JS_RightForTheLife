@@ -21,3 +21,5 @@ right-for-life_front/.env.production.local
 right-for-life_front/npm-debug.log*
 right-for-life_front/yarn-debug.log*
 right-for-life_front/yarn-error.log*
+
+right-for-life_back/node_modules

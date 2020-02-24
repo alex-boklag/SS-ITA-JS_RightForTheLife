@@ -1,0 +1,3 @@
+.uig-delete:hover > * {
+  visibility: visible;
+}

@@ -1,0 +1,1 @@
+export { UpdateImageGallery } from './UpdateImageGallery';

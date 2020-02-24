@@ -1,0 +1,13 @@
+.animal-details__btn {
+  transition: background-color .2s;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.animal-details__share-mobile button:focus {
+  outline: 0;
+}
+
+.animal-details__share-mobile {
+  transition: background-color .2s;
+  -webkit-tap-highlight-color: transparent;
+}

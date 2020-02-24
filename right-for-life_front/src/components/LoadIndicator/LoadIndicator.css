@@ -1,0 +1,41 @@
+.loader {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60px;
+}
+
+.loader-3 .dot {
+  width: 11px;
+  height: 11px;
+  margin: 0 5px;
+  background: #f6ad55;
+  border-radius: 50%;
+}
+
+.loader-3 .dot1 {
+  -webkit-animation: dot-jump 0.5s cubic-bezier(0.77, 0.47, 0.64, 0.28) alternate infinite;
+  animation: dot-jump 0.5s cubic-bezier(0.77, 0.47, 0.64, 0.28) alternate infinite;
+}
+
+.loader-3 .dot2 {
+  -webkit-animation: dot-jump 0.5s 0.2s cubic-bezier(0.77, 0.47, 0.64, 0.28) alternate infinite;
+  animation: dot-jump 0.5s 0.2s cubic-bezier(0.77, 0.47, 0.64, 0.28) alternate infinite;
+}
+
+.loader-3 .dot3 {
+  -webkit-animation: dot-jump 0.5s 0.4s cubic-bezier(0.77, 0.47, 0.64, 0.28) alternate infinite;
+  animation: dot-jump 0.5s 0.4s cubic-bezier(0.77, 0.47, 0.64, 0.28) alternate infinite;
+}
+
+@keyframes dot-jump {
+  0% {
+      -webkit-transform: translateY(0);
+      transform: translateY(0);
+  }
+  100% {
+      -webkit-transform: translateY(-15px);
+      transform: translateY(-15px);
+  }
+}

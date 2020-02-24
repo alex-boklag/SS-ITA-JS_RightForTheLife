@@ -1,0 +1,1 @@
+export { AnimalsPage } from './AnimalsPage';

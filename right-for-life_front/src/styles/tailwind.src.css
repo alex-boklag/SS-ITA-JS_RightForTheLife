@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i&display=swap&subset=cyrillic');
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+html, body {
+  @apply font-display bg-lightgray-100;
+}
+
+body {
+  @apply overflow-y-scroll;
+}
+
+#root {
+  @apply flex flex-col h-screen;
+}

@@ -1,0 +1,38 @@
+/* make square */
+/*639px is lower than sm from TailwindCSS)*/
+@media screen and (max-width: 639px) {
+  .swiper-slide img {
+    height: 100vw;
+  }
+}
+
+.swiper-container-horizontal .swiper-pagination-bullets {
+  top: 20px;
+  pointer-events: none;
+  height: 8px;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: .6 !important;
+  background: #ffffff !important;
+}
+
+.swiper-button-prev-custom.swiper-button-disabled,
+.swiper-button-next-custom.swiper-button-disabled {
+  opacity: 0.35;
+  cursor: auto;
+  pointer-events: none;
+}
+
+.csstransforms3d.no-touch .pswp__container {
+  transition: transform 0.35s ease-in-out;
+}
+
+.pswp__img--placeholder--blank {
+  display: none !important;
+}
+
+/* if sizes not loaded  */
+.pswp img {
+  object-fit: contain;
+}

@@ -1,0 +1,11 @@
+#will be soon:)
+#
+#at now you can use this in current directory (where dockerfile is)
+
+docker build --rm -t test .
+
+docker run --rm -it -p 4000:4000 test
+
+#and go to localhost:4000
+#
+#but before - install docker:)

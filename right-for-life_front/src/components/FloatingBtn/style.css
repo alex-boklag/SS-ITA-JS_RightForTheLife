@@ -1,0 +1,55 @@
+.floating-button button:focus {
+  outline: 0;
+}
+
+.floating-button {
+  transition: background-color .2s;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.floating-button-appear-active , .floating-button-enter-active {
+  transform: scale(0);
+  animation: 200ms floating-button-anim forwards;
+  animation-delay: calc(50ms * var(--btn-index));
+}
+
+.floating-button-exit-active {
+  transform: scale(1);
+  animation: 150ms floating-button-anim reverse forwards;
+  animation-delay: calc(40ms * calc(var(--btn-index) - 5) * -1);
+}
+
+@keyframes floating-button-anim {
+  from {
+    transform: scale(0);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
+
+.floating-button__icon-enter {
+  transform: rotate(-180deg) scale(0);
+}
+
+.floating-button__icon-enter-active {
+  transform: rotate(0) scale(1);
+  transition: 100ms;
+}
+
+.floating-button__icon-exit {
+  transform: rotate(0) scale(1);
+}
+
+.floating-button__icon-exit-active {
+  transform: rotate(180deg) scale(0);
+  transition: 100ms;
+}
+
+{--btn-index: 0;}
+[data-floating-btn-index="1"] {--btn-index: 1;}
+[data-floating-btn-index="2"] {--btn-index: 2;}
+[data-floating-btn-index="3"] {--btn-index: 3;}
+[data-floating-btn-index="4"] {--btn-index: 4;}
+[data-floating-btn-index="5"] {--btn-index: 5;}

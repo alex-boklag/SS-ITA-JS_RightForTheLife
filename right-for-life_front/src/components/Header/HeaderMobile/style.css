@@ -1,0 +1,71 @@
+.header__mobile-menu-container {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body.mobile-header-opened {
+  position: fixed;
+  max-width: 100vw;
+  width: 100%;
+}
+
+.header__mobile-menu__item:hover .hover-header-item\:text-red {
+  color: #9b2c2c;
+}
+
+.header__mobile-menu__item:hover .hover-header-item\:bg-red {
+  background-color: #feb2b2;
+}
+
+.header__mobile-menu__item:hover .hover-header-item\:text-green {
+  color: #276749;
+}
+
+.header__mobile-menu__item:hover .hover-header-item\:bg-green {
+  background-color: #9ae6b4
+}
+
+.header__mobile-menu, .header__mobile-menu__item {
+  transition: color .2s, background-color .2s;
+  -webkit-tap-highlight-color: rgba(0, 8, 44, 0.11);
+}
+
+.header__mobile-menu-container.nohover .header__mobile-menu__item:hover {
+  pointer-events: none;
+}
+
+.header__mobile-menu-enter {
+  transform: translate(0, 100%);
+}
+
+.header__mobile-menu-enter-active {
+  transform: translate(0);
+  transition: 300ms;
+}
+
+.header__mobile-menu-exit {
+  transform: translate(0);
+  overflow-y: hidden;
+}
+
+.header__mobile-menu-exit-active {
+  transform: translate(0, 100%);
+  transition: 350ms;
+}
+
+.header__mobile-menu-bg-enter {
+  opacity: 0;
+}
+
+.header__mobile-menu-bg-enter-active {
+  opacity: .25;
+  transition: opacity 200ms;
+}
+
+.header__mobile-menu-bg-exit {
+  opacity: .25;
+}
+
+.header__mobile-menu-bg-exit-active {
+  opacity: 0;
+  transition: opacity 200ms;
+}
