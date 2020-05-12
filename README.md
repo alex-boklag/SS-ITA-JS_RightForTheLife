@@ -1,4 +1,4 @@
-**«The Right For the Life»** project is a web-application for mini animal shelter based in Dnipro. It allows sharing information about animals that live in the shelter and lets people help the shelter by monetary donation or providing necessary goods, supplies or medicines.
+**«The Right For the Life»** project is a web-application for animal shelter based in Dnipro. It allows sharing information about animals that live in the shelter and lets people help the shelter by monetary donation or providing necessary goods, supplies or medicines.
 
 The application’s main features are:
 
